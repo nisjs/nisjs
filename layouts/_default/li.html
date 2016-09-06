@@ -1,0 +1,22 @@
+<article class="li">
+    <header class="clearfix">
+      <div class="pull-left">
+        <div class="image" style="background-image: url({{ $.Site.BaseURL }}images/{{ with .Params.image }}{{ . }}{{ else }}default.jpg{{ end }});"></div>
+      </div>
+
+      <div class="detail">
+        <time>{{ with .Site.Params.DateForm }}{{ $.Date.Format . }}{{ else }}{{ $.Date.Format "Jan 2, 2006." }}{{ end }}</time>
+        <div class="tags">
+          {{ with .Params.tags }}
+            {{ if ge (len .) 1 }}
+              {{ range . }}
+                  <a href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}" class="tag">#{{ . }}</a>
+              {{ end }}
+            {{ end }}
+          {{ end }}
+        </div>
+        <h2 class="title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        <p class="description">{{ .Description }}... <a class="read-more" href="{{ .Permalink }}">Read More</a></p>
+      </div>
+    </header>
+</article>

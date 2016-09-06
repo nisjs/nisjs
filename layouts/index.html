@@ -1,0 +1,11 @@
+{{ partial "header.html" . }}
+<div class="index">
+
+  {{ range (where .Paginator.Pages "Params.hidden" "ne" "true")  }}
+  {{ .Render "li" }}
+  {{ end }}
+
+  {{ partial "pagination.html" . }}
+
+</div>
+{{ partial "footer.html" . }}
