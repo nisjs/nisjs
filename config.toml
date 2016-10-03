@@ -1,4 +1,4 @@
-baseurl = "nisjs.com"
+baseurl = "nisjs.com/"
 languageCode = "rs"
 title = "Niš JS"
 googleAnalytics = ""
