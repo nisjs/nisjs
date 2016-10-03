@@ -4,4 +4,4 @@ title = "Nis JS"
 hidden = true
 +++
 
-Ovo je prica o Nis JS tebra!
+Ovo je prica o Nis JS-u!
