@@ -1,7 +1,7 @@
 baseurl = "https://nisjs.com/"
 languageCode = "rs"
 title = "Niš JS"
-googleAnalytics = ""
+googleAnalytics = "UA-92994407-1"
 disqusShortname = "nisjs"
 theme = "Aglaus"
 license = "MIT"
@@ -14,9 +14,7 @@ Copyright = "[NisJS](http://nisjs.com) - All code under [MIT Licence](http://ope
   Description = "JavaScript Meetups in Niš, Serbia. Our goal is to connect Niš's JavaScript community through monthly meetups."
 
 [social]
-  twitter  = "https://twitter.com/"
-  facebook = "https://www.facebook.com/"
-  linkedin = "https://www.linkedin.com/"
-  github = "https://www.github.com/"
-  skype = "petar.slovic"
-  mail = "petar@petarslovic.com"
+  twitter  = "https://twitter.com/NisJSmeetups"
+  facebook = "https://www.facebook.com/nisjs/"
+  github = "https://github.com/nisjs"
+  mail = "hello@nisjs.com"
