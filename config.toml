@@ -3,7 +3,7 @@ languageCode = "rs"
 title = "Niš JS"
 googleAnalytics = "UA-92994407-1"
 disqusShortname = "nisjs"
-theme = "Aglaus"
+theme = "aglaus"
 license = "MIT"
 
 Copyright = "[NisJS](http://nisjs.com) - All code under [MIT Licence](http://opensource.org/licenses/MIT)"
