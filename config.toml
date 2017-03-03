@@ -10,6 +10,7 @@ Copyright = "[NisJS](http://nisjs.com) - All code under [MIT Licence](http://ope
 
 
 [params]
+  GoogleAnalyticsUserID = "UA-92994407-1"
   enableRSS = true
   Description = "JavaScript Meetups in Niš, Serbia. Our goal is to connect Niš's JavaScript community through monthly meetups."
 
