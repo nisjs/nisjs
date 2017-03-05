@@ -1,7 +1,7 @@
 +++
 date = "2016-07-30T04:50:15+02:00"
-title = "Hello from Nis JS"
-description = "Pocinjemo meetupe za js u nisu"
+title = "Hello from NišJS"
+description = "Ukoliko volite JavaScript i kafu, pridružite nam se na NišJS meetupu!"
 tags = ["meetup", "news"]
 image = "nisjs-icon.png"
 +++
@@ -14,4 +14,4 @@ Svakog meseca ćemo se skupljati na mestu koje izaberemo, pričaćemo o par JS t
 
 Ulaz zauvek slobodan.
 
-[Svako može da se prijavi da priča na NišJS meetup-u](https://github.com/nisjs/cfp)!
+[Svako može da se prijavi da priča na sledećem NišJS meetup-u](https://github.com/nisjs/cfp)!

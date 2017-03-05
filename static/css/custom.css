@@ -149,7 +149,8 @@ article.single .article-body p,
 h2 {
   font-size: 22px;
   font-weight: bold;
-  margin: 20px 0;
+  margin-top: 40px;
+  margin-bottom: 20px;
 }
 
 a {
