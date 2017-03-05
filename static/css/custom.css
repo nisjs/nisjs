@@ -135,7 +135,24 @@ footer.site {
   }
 }
 
-article.single .article-body p {
+article.single .article-body p,
+.single.site .article-body {
   font-size: 20px;
   line-height: 1.6;
+}
+
+.title {
+  font-size: 26px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 22px;
+  font-weight: bold;
+  margin: 20px 0;
+}
+
+a {
+  color: #333;
+  text-decoration: underline;
 }
