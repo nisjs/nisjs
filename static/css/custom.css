@@ -134,3 +134,8 @@ footer.site {
     padding-left: 0;
   }
 }
+
+article.single .article-body p {
+  font-size: 20px;
+  line-height: 1.6;
+}
