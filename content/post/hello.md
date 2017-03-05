@@ -6,12 +6,12 @@ tags = ["meetup", "news"]
 image = "nisjs-icon.png"
 +++
 
-Hi!
+Zdravo!
 
-Like JS? We're gonna organize JavaScript themed meetups in Nis!
+Volite **JavaScript**? Živite u **Nišu**? Onda možete da nam se pridružite na **NišJS** meetup-ovima!
 
-Every month, we'll get together at a venue, have a few JS related talks, have some coffee (or beer) and discuss interesting things.
+Svakog meseca ćemo se skupljati na mestu koje izaberemo, pričaćemo o par JS tema uz kafu ili pivo i raspravljati o interesantnim temama.
 
-Entrance will always be free, duh.
+Ulaz zauvek slobodan.
 
-[Anyone can talk at Nis JS event](https://github.com/nisjs/cfp).
+[Svako može da se prijavi da priča na NišJS meetup-u](https://github.com/nisjs/cfp)!
