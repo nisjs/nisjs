@@ -157,3 +157,35 @@ a {
   color: #333;
   text-decoration: underline;
 }
+
+.article .title {
+  font-size: 1.4rem;
+}
+
+.detail .description,
+.site .description {
+  font-size: 20px;
+}
+
+@media (max-width: 480px) {
+  .li .image {
+    display: none;
+  }
+}
+
+.button {
+  padding: 20px 30px;
+  background: #F2E059;
+  color: #333333;
+  font-size: 22px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none !important;
+  margin: 10px 0;
+  display: inline-block;
+}
+
+.button:hover {
+  color: #000000 !important;
+  background: #CAB518;
+}

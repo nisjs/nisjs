@@ -8,7 +8,6 @@ license = "MIT"
 
 Copyright = "[NišJS](http://nisjs.com) - All code under [MIT Licence](http://opensource.org/licenses/MIT)"
 
-
 [params]
   GoogleAnalyticsUserID = "UA-92994407-1"
   enableRSS = true
