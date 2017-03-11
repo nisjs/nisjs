@@ -21,7 +21,7 @@ Nismo sigurni koliko ljudi da očekujemo, ali obzirom da je broj mesta ograniče
 Evo nekih detalja:
 
 - Gde: **Deli Niš**
-- Kada: **25.03.2017.**
+- Kada: **01.04.2017.**
 - Broj mesta: **50**
 - Kafa: **Da**
 - Stikeri: **Da**
