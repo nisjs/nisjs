@@ -6,7 +6,7 @@ tags = ["meetup", "news"]
 image = "first-meetup-icon.png"
 +++
 
-## Prvi NišJS Meetup!
+# Prvi NišJS Meetup!
 
 Nakon dužeg vremena planiranja i razvijanja ideje, sa zadovoljstvom vas pozivamo na prvi NišJS meetup.
 
@@ -14,16 +14,26 @@ Nakon dužeg vremena planiranja i razvijanja ideje, sa zadovoljstvom vas pozivam
 
 Organizujemo prvi NišJS meetup gde će biti priče o modernom JavaScript-u i novim razvojima u toj oblasti. Cilj nam je da povežemo JS zajednicu u Nišu kroz održavanje mesečnih meetup-ova i radionica.
 
-Na prvom NišJS meetup-u imaćemo dva predavača, a detalje i teme ćemo objaviti uskoro.
-
 Nismo sigurni koliko ljudi da očekujemo, ali obzirom da je broj mesta ograničen, možemo primiti maksimalno 50 ljudi.
 
-Evo nekih detalja:
+Evo detalja:
 
 - Gde: **Deli Niš**
 - Kada: **01.04.2017.**
 - Broj mesta: **50**
 - Kafa: **Da**
 - Stikeri: **Da**
+
+# Teme
+
+Na prvom meetupu ćemo imati dva predavanja:
+
+## *Awesome Desktop Apps with JS - Predrag Popović*
+
+Predrag će nam pričati o jako interesantnoj i aktuelnoj temi - kreiranje desktop aplikacija pomoću [Electron](https://electron.atom.io/) framework-a. Saznaćemo koliko je jednostavno iskoristiti znanja koja već imamo kao Front End programeri da bismo počeli da pravimo Desktop aplikacije. Zanimljivost - Slack je napravljen korišćenjem Electron framework-a!
+
+## *Bet You didn't know JS could do that - Petar Slović*
+
+Petar će nam predstaviti neke od stvari za koje možda niste znali da ih je moguće ostvariti pomoću JavaScript-a. Biće priče o manje poznatim i eksperimentalnim Browser API-ijma koji nam omogućavaju da postignemo super stvari korišćenjem samo JavaScript-a.
 
 Vidimo se!
