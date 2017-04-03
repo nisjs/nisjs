@@ -26,6 +26,6 @@ Ako želite da se uključite u NišJS, evo nekih načina na koje možete doprine
 
 - Pisanje bloga - Ako želite da napišete blog post na neku temu vezanu za JavaScript ili NodeJS, vrlo rado ćemo ga objaviti.
 - Ukoliko želite da pričate na NišJS meetupu, [prijavite se ovde](github.com/nisjs/cfp).
-- Ukoliko želite da pomognete u održavanju sajta, [repo je ovde!](https://github.com/petarjs/nisjs)
+- Ukoliko želite da pomognete u održavanju sajta, [repo je ovde!](https://github.com/nisjs/nisjs)
 
 Ukoliko ste zainteresovani da budete sponzori na sledećem NišJS događaju, [pošaljite nam poruku](mailto:hello@nisjs.com).
