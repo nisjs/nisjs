@@ -1,0 +1,14 @@
+{{ partial "header.html" . }}
+
+<div class="single site">
+  <header class="clearfix">
+    <div class="detail">
+      <h1 class="title">{{ .Title }}</h1>
+      <br>
+    </div>
+  </header>
+
+  <div class="article-body" itemprop="articleBody">{{ .Content }}</div>
+</div>
+
+{{ partial "footer.html" . }}
