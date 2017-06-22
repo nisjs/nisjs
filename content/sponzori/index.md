@@ -9,8 +9,23 @@ NišJS ne bi mogao da uspe bez fantastičnih sponzora. Naši sponzori su kompani
 <ul class="sponsors-list">
   <li>
     <div>
+      <a href="https://www.atomia.com/" target="_blank" rel="noopener">
+        <img width="100" src="/images/atomia.png">
+      </a>
+    </div>
+
+    <h5 class="flush--bottom small">
+      <a class="hoverLink" href="https://www.atomia.com/" target="_blank" rel="noopener">Atomia</a>
+    </h5>
+
+    <p class="small">Gold Sponsor</p>
+    <p class="small">1 Meetup</p>
+  </li>
+  <li>
+    <div>
       <a href="http://htecgroup.com/" target="_blank" rel="noopener">
-      <img src="/images/htec.jpeg"></a>
+        <img src="/images/htec.jpeg">
+      </a>
     </div>
 
     <h5 class="flush--bottom small">
