@@ -1,7 +1,7 @@
 +++
 date = "2017-11-29T10:30:00+02:00"
 title = "Meetup #4 - Utisci"
-description = "Treći NišJS meetup je protekao uz jako zanimljive teme, u Deli prostoru, gde se"
+description = "Četvrti NišJS meetup, posle duge letnje pauze, je uspešno prošao! Čuli smo dva vrlo interesantna"
 tags = ["meetup", "news"]
 image = "meetup-4/icon.jpg"
 +++
