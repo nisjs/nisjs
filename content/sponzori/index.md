@@ -9,6 +9,21 @@ NišJS ne bi mogao da uspe bez fantastičnih sponzora. Naši sponzori su kompani
 <ul class="sponsors-list">
   <li>
     <div>
+      <a href="https://www.fra.me/" target="_blank" rel="noopener">
+        <img width="150" src="/images/frame.png">
+      </a>
+    </div>
+
+    <h5 class="flush--bottom small">
+      <a class="hoverLink" href="https://www.fra.me/" target="_blank" rel="noopener">Frame</a>
+    </h5>
+
+    <p class="small">Gold Sponsor</p>
+    <p class="small">1 Meetup</p>
+  </li>
+
+  <li>
+    <div>
       <a href="https://www.atomia.com/" target="_blank" rel="noopener">
         <img width="100" src="/images/atomia.png">
       </a>
